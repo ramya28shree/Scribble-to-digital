@@ -7,7 +7,7 @@ import google.generativeai as genai
 import os
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyDocOe7t6SRm_hMOBjLIXSmZ31U3sUfYT0")
+genai.configure(api_key="AIzaSyDvOcrCzgzCKqnjX9OQu-yfUspQflrf16U")
 
 st.title("📝 Scribble to Digital")
 st.write("Convert messy handwritten notes into clean text & to-do lists")
